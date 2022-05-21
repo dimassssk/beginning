@@ -1,2 +1,2 @@
 # beginning
-it's my first repositories;)
+it's my first repository;)
